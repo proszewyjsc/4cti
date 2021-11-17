@@ -1,0 +1,44 @@
+<form method="POST" >
+    <div class="mb-3">
+      <label for="" class="form-label">Email</label>
+      <input type="email" 
+        name="email" 
+        id="email"
+        class="form-control <%- errors?.name ? 'is-invalid' : '' %>" required>
+      
+    </div>
+  
+    <div class="mb-3">
+      <label for="" class="form-label">Imie</label>
+      <input type="text" 
+        name="imie" 
+        class="form-control <%- errors?.des ? 'is-invalid' : '' %>" required>
+      <% if (errors?.des) { %>
+        <div class="invalid-feedback"><%= errors.des.message %></div>
+      <% } %>
+    </div>
+  
+    <div class="mb-3">
+      <label for="" class="form-label">Nazwisko</label>
+      <input type="text" 
+        name="Nazwisko" 
+        value="<%= form.price %>"
+        class="form-control">
+    </div>
+
+    <div class="mb-3">
+        <label for="" class="form-label">Adres</label>
+        <input type="text" 
+          name="Adress" 
+          value="<%= form.price %>"
+          class="form-control">
+      </div>
+  
+    <button class="btn btn-primary">Zamawiam!!</button>
+  </form>
+  
+  <% if (errors) { %>
+    <div class="alert alert-danger mt-3">
+      Popraw dane w formularzu
+    </div>
+  <% } %>

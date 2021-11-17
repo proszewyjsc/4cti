@@ -1,0 +1,21 @@
+npm i express
+
+npm i mongoose
+
+npm i bcrypt
+
+npm i ejs
+
+npm i express
+
+npm i fs
+
+npm i helmet
+
+npm i json2csv
+
+npm i json-buffer
+
+npm i nodemon
+
+npm i package-json
