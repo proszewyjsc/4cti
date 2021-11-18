@@ -1,6 +1,6 @@
 # CKZiU room reservation system
 
-## _contractor: Jan Kowalski_
+## _contractor: Jakub Surmiak_
 ## _principal: Michał Czerwiński_
 
 
