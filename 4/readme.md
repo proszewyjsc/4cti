@@ -1,4 +1,4 @@
-# CKZiU room reservation system
+# Where is person on the world
 
 ## _contractor: Mateusz Grajewski
 ## _principal: Michał Czerwiński_
