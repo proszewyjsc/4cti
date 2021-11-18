@@ -13,6 +13,16 @@
 ## Summary
 The project aims to list the exact location of the selected person at a given time.
 
+## Data structure
+
+| data | type |
+| ------ | ------ |
+| INPUT |  ... |
+| OUTPUT |  ...  |
+
+## Main functionalities
+.....................
+
 ### Relational database based on SQL language
 
 ### Frot-end created in JavaScript and CSS technologies
