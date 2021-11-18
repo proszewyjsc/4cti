@@ -19,7 +19,7 @@ The project concerns a system for recording working time.
 | data | type |
 | ------ | ------ |
 | INPUT | data form |
-| OUTPUT | room reservation message and database entry |
+| OUTPUT | a message about the time worked after the end of the shift at work and during the last month |
 
 ## Main functionalities
 
