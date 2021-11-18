@@ -3,8 +3,6 @@
 ## _contractor: Mateusz Grajewski
 ## _principal: Michał Czerwiński_
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 ## Summary
 The project aims to list the exact location of the selected person at a given time.
 
