@@ -1,4 +1,4 @@
-# CKZiU room reservation system
+# Working time registration system
 
 ## _contractor: Jakub Surmiak_
 ## _principal: Michał Czerwiński_
