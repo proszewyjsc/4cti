@@ -1,4 +1,4 @@
-# CKZiU room reservation system
+# CKZiU game aka Clicker
 
 ## _contractor: Karol Kamiński_
 ## _principal: Michał Czerwiński_
