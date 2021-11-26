@@ -1,13 +1,13 @@
-# CKZiU room reservation system
+# Book recomandation system
 
 ## _contractor: Antoni Czupryński_
 ## _principal: Michał Czerwiński_
 
 
-| dossier version | date |
-| ------ | ------ |
-| 1.0 | 17.11.2021 |
-| 1.1 | 18.11.2021 |
+| dossier version | date | description |
+| ------ | ------ | ------ |
+| 1.0 | 17.11.2021 | none |
+| 1.1 | 26.11.2021 | creating template |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -60,3 +60,10 @@ Dillinger uses a number of open source projects to work properly:
 - [Apache]
 
  [erd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.jpg>
+ 
+ ## Layout for form in HTML
+
+[link to layout][form]
+
+[form]: <https://github.com/Michal3456/4cti/blob/main/1/template.PNG>
+
